@@ -1,7 +1,7 @@
 ---
 title: Testing Extensible Storage in RevitPythonShell (RPS)
 date: 2023-01-11
-comments_id: 3
+comments_id: 4
 ---
 
 I tend to put most of my development time into working on scripts and applications in pyRevit, as I'm most comfortable in Python.  One benefit of using Python with the Revit API for me, as a relative novice, is that I can use [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell) (RPS) as an interactive shell, which features autocomplete for the loaded Revit API libraries and hints for the arguments the API methods are expecting. This comes in very handy as it allow me to test Python code for the Revit API and get immediate feedback if anything is wrong in my code, as well as see what other types of methods or properties are available.

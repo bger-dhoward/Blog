@@ -1,7 +1,7 @@
 ---
 title: "An Expanding Frontier of Ignorance"
 date: 2022-12-21
-comments_id: 1
+comments_id: 2
 ---
 
 > You might ask why we cannot teach physics by just giving the basic laws on page one and then showing how they work in all possible circumstances, as we do in Euclidean geometry, where we state the axioms and then make all sorts of deductions. (So, not satisfied to learn physics in four years, you want to learn it in four minutes?) We cannot do it in this way for two reasons. First, we do not yet _know_ all the basic laws: ***there is an expanding frontier of ignorance***. Second, the correct statement of the laws of physics involves some very unfamiliar ideas which require advanced mathematics for their description. Therefore, one needs a considerable amount of preparatory training even to learn what the words mean. No, it is not possible to do it that way. We can only do it piece by piece. 
